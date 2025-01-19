@@ -1,6 +1,3 @@
-# CodingTestPractice
-온라인 저지 문제 풀이
-
 ## **Building a Stronger Foundation, One Step at a Time**
 ### (한 걸음씩 강한 기반을 다지기)
 - 기초 문제부터 차근차근 풀어가는 이유는 문제의 본질을 파악하고,
